@@ -1,6 +1,5 @@
 # 1t
-1t's blog
 
 
-# Copyright
+### Copyright
 MIT Licensed | Copyright © 2021-present ET
